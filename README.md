@@ -1,4 +1,4 @@
-# PDF Chat Service
+# Gemini PDF Query
 
 ## Project Overview
 
