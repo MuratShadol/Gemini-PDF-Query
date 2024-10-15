@@ -16,7 +16,7 @@ The PDF Chat Service is a FastAPI application that allows users to upload PDF fi
 1. **Clone the repository**:
    ```bash
    git clone git@github.com:MuratShadol/Gemini-PDF-Query.git
-   cd sevenapps
+   cd Gemini-PDF-Query
 
 2. **Set up a virtual environment (optional)**:
    ```bash
